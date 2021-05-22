@@ -1,2 +1,2 @@
 # schrosolver.github.io
-Leetcode problems
+My Personal Website
